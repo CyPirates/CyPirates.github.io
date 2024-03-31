@@ -16,10 +16,10 @@ timezone: Asia/Shanghai
 
 title: CyberPirates # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: CyberPirates' tech blog
 
 description: >- # used by seo meta and the atom feed
-  문구 추천 받음
+  CyberPirates' tech blog
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
