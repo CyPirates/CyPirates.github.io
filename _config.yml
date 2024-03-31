@@ -16,10 +16,10 @@ timezone: Asia/Seoul
 
 title: CyberPirates # the main title
 
-tagline: CyberPirates' tech blog
+tagline: CyberPirates tech blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  CyberPirates' tech blog
+  CyberPirates tech blog
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
